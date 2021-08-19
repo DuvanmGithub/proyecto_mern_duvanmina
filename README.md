@@ -1,2 +1,2 @@
 # proyecto_mern_duvanmina
-Proyecto universidad de la calle desde CDP
+Proyecto de aplicación web para universidad de la calle desde CDP
